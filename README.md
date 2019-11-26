@@ -37,11 +37,11 @@ ____
 
 ## Screenshots
 
-Training
-![Rendu 1](https://github.com/squiquem/ft_linear_regression/blob/master/screenshots/train.PNG)
+Training<br/>
+![Rendu 1](https://github.com/squiquem/ft_linear_regression/blob/master/screenshots/train.png)
 
-Prediction
-![Rendu 2](https://github.com/squiquem/ft_linear_regression/blob/master/screenshots/predict.PNG)
+Prediction<br/>
+![Rendu 2](https://github.com/squiquem/ft_linear_regression/blob/master/screenshots/predict.png)
 
 ____
 
